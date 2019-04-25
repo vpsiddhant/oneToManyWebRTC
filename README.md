@@ -2,8 +2,8 @@
 
 WHAT EACH FILE DOES:
 
-index.html -> broadcaster html
-videoindex.js -> broadcaster javascript
+index.html -> broadcaster html. 
+videoindex.js -> broadcaster javascript. 
 
-peerIndex.html -> peer html
-peervideo.js -> peer javascript
+peerIndex.html -> peer html. 
+peervideo.js -> peer javascript. 
